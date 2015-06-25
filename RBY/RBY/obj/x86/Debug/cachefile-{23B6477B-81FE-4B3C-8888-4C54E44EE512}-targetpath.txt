@@ -1,0 +1,15 @@
+Content\PlayerDots\blue.xnb
+Content\PlayerDots\orange.xnb
+Content\PlayerDots\red.xnb
+Content\EnemyDots\blueenemydot.xnb
+Content\EnemyDots\redenemydot.xnb
+Content\EnemyDots\yellowenemydot.xnb
+Content\EnemyDots\greenenemydot.xnb
+Content\EnemyDots\orangeenemydot.xnb
+Content\EnemyDots\purpleenemydot.xnb
+Content\DotSounds\bluehit.xnb
+Content\DotSounds\greenhit.xnb
+Content\DotSounds\orangehit.xnb
+Content\DotSounds\purplehit.xnb
+Content\DotSounds\redhit.xnb
+Content\DotSounds\yellowhit.xnb

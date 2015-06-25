@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>PlayerDots\blue.png</Source>
+      <Name>PlayerDots\blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\brent\documents\visual studio 2012\Projects\RBY\RBY\RBY\bin\x86\Debug\Content\PlayerDots\blue.xnb</Output>
+      <Time>2014-07-22T13:38:54.6758838-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerDots\orange.png</Source>
+      <Name>PlayerDots\orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\brent\documents\visual studio 2012\Projects\RBY\RBY\RBY\bin\x86\Debug\Content\PlayerDots\orange.xnb</Output>
+      <Time>2014-07-22T13:39:10.6651369-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerDots\red.png</Source>
+      <Name>PlayerDots\red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\brent\documents\visual studio 2012\Projects\RBY\RBY\RBY\bin\x86\Debug\Content\PlayerDots\red.xnb</Output>
+      <Time>2014-07-22T13:39:10.6651369-07:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyDots\blueenemydot.png</Source>
+      <Name>EnemyDots\blueenemydot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\brent\documents\visual studio 2012\Projects\RBY\RBY\RBY\bin\x86\Debug\Content\EnemyDots\blueenemydot.xnb</Output>
+      <Time>2014-07-22T18:51:12.3936133-07:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyDots\redenemydot.png</Source>
+      <Name>EnemyDots\redenemydot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\brent\documents\visual studio 2012\Projects\RBY\RBY\RBY\bin\x86\Debug\Content\EnemyDots\redenemydot.xnb</Output>
+      <Time>2014-07-22T18:51:12.3976133-07:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyDots\yellowenemydot.png</Source>
+      <Name>EnemyDots\yellowenemydot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\brent\documents\visual studio 2012\Projects\RBY\RBY\RBY\bin\x86\Debug\Content\EnemyDots\yellowenemydot.xnb</Output>
+      <Time>2014-07-22T18:51:12.4016108-07:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyDots\greenenemydot.png</Source>
+      <Name>EnemyDots\greenenemydot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\brent\documents\visual studio 2012\Projects\RBY\RBY\RBY\bin\x86\Debug\Content\EnemyDots\greenenemydot.xnb</Output>
+      <Time>2014-07-22T18:54:28.8572931-07:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyDots\orangeenemydot.png</Source>
+      <Name>EnemyDots\orangeenemydot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\brent\documents\visual studio 2012\Projects\RBY\RBY\RBY\bin\x86\Debug\Content\EnemyDots\orangeenemydot.xnb</Output>
+      <Time>2014-07-22T18:54:28.8612939-07:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyDots\purpleenemydot.png</Source>
+      <Name>EnemyDots\purpleenemydot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\brent\documents\visual studio 2012\Projects\RBY\RBY\RBY\bin\x86\Debug\Content\EnemyDots\purpleenemydot.xnb</Output>
+      <Time>2014-07-22T18:54:28.8652927-07:00</Time>
+    </Item>
+    <Item>
+      <Source>DotSounds\bluehit.mp3</Source>
+      <Name>DotSounds\bluehit</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brent\documents\visual studio 2012\Projects\RBY\RBY\RBY\bin\x86\Debug\Content\DotSounds\bluehit.xnb</Output>
+      <Time>2014-07-25T18:04:26.5709156-07:00</Time>
+    </Item>
+    <Item>
+      <Source>DotSounds\greenhit.mp3</Source>
+      <Name>DotSounds\greenhit</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brent\documents\visual studio 2012\Projects\RBY\RBY\RBY\bin\x86\Debug\Content\DotSounds\greenhit.xnb</Output>
+      <Time>2014-07-25T18:04:26.5759149-07:00</Time>
+    </Item>
+    <Item>
+      <Source>DotSounds\orangehit.mp3</Source>
+      <Name>DotSounds\orangehit</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brent\documents\visual studio 2012\Projects\RBY\RBY\RBY\bin\x86\Debug\Content\DotSounds\orangehit.xnb</Output>
+      <Time>2014-07-25T18:04:26.582916-07:00</Time>
+    </Item>
+    <Item>
+      <Source>DotSounds\purplehit.mp3</Source>
+      <Name>DotSounds\purplehit</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brent\documents\visual studio 2012\Projects\RBY\RBY\RBY\bin\x86\Debug\Content\DotSounds\purplehit.xnb</Output>
+      <Time>2014-07-25T18:04:26.5879164-07:00</Time>
+    </Item>
+    <Item>
+      <Source>DotSounds\redhit.mp3</Source>
+      <Name>DotSounds\redhit</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brent\documents\visual studio 2012\Projects\RBY\RBY\RBY\bin\x86\Debug\Content\DotSounds\redhit.xnb</Output>
+      <Time>2014-07-25T18:04:26.5899166-07:00</Time>
+    </Item>
+    <Item>
+      <Source>DotSounds\yellowhit.mp3</Source>
+      <Name>DotSounds\yellowhit</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brent\documents\visual studio 2012\Projects\RBY\RBY\RBY\bin\x86\Debug\Content\DotSounds\yellowhit.xnb</Output>
+      <Time>2014-07-25T18:04:26.5959164-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{23B6477B-81FE-4B3C-8888-4C54E44EE512}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Brent\documents\visual studio 2012\Projects\RBY\RBY\RBYContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Brent\documents\visual studio 2012\Projects\RBY\RBY\RBY\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Brent\documents\visual studio 2012\Projects\RBY\RBY\RBY\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Brent\documents\visual studio 2012\Projects\RBY\RBY\RBY\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-07-12T20:07:49.7095062-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
